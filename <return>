@@ -1,0 +1,13 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /root/alx-system_engineering-devops/0x00-shell_basics
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+0x00-shell_basics/
+| 0-current_working_directory*
+| 1-listit*
+| 2-bring_me_home*
+| README.md
